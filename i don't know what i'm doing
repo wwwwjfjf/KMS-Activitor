@@ -1,0 +1,4 @@
+#for i in range(n): is the same as while n_m:
+for i in range(4):
+  print("1+1"*2)
+#print("1+1"*2) is different from print(2*2)
